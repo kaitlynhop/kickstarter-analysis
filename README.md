@@ -6,15 +6,18 @@ This project analyzes key datasets of kickstarter campaigns to assess for trends
 
 ### Purpose
 
-The purpose of this project was to analyze data trends of kickstarter campaigns to organize and visualize factors that may predict outcomes of campaigns. 
+The purpose of this project was to analyze data of kickstarter campaigns to assess trends associated with outcomes. 
 
 ## Analysis and Challenges
 
 ### Analysis Based on Launch Date
 Kickstarter data was organized into a pivot table to display the trends between the launch month and outcomes. The data was filtered by theater category and portrayed as a line chart to show the trends of outcomes and monthly launch within theater campaigns. Below is the line chart showing outcomes of theater campaigns by month of launch. The line chart portrays a spike for successful outcomes for compaigns launched in the month of May and June. The campaigns with failed outcomes appears depicts a less sever flux throughout the months. The canceled campaigns remain relatively consistent between launch months. 
-![Line Chart](/Resources/Theater_Outcomes_VS_Launch.png)
+![Line Chart_Showing_Outcomes_Trend_with_Creation_Date](/Resources/Theater_Outcomes_VS_Launch.png)
 
 ### Analysis Based on Goals
+The number of successful, failed, and canceled campaigns within play subcategory were categorized according to the campaigns goal amount.
+
+![Line_Chart_Showing_Outcomes_Trend_with_Goals](/Resources/Outcomes_Vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
