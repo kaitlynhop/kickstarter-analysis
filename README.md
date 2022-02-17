@@ -11,7 +11,7 @@ The purpose of this project was to analyze data trends of kickstarter campaigns 
 ## Analysis and Challenges
 
 ### Analysis Based on Launch Date
-Kickstarter data was organized into a pivot table to display the trends between the launch month and outcomes. The data was filtered by theater subcategory and portrayed as a line chart to show the trends of outcomes and monthly launch within theater campaigns. Below is the line chart showing outcomes of theater campaigns by month of launch. The line chart portrays a spike for successful outcomes for compaigns launched in the month of May and June. 
+Kickstarter data was organized into a pivot table to display the trends between the launch month and outcomes. The data was filtered by theater category and portrayed as a line chart to show the trends of outcomes and monthly launch within theater campaigns. Below is the line chart showing outcomes of theater campaigns by month of launch. The line chart portrays a spike for successful outcomes for compaigns launched in the month of May and June. The campaigns with failed outcomes appears depicts a less sever flux throughout the months. The canceled campaigns remain relatively consistent between launch months. 
 ![Line Chart](/Resources/Theater_Outcomes_VS_Launch.png)
 
 ### Analysis Based on Goals
