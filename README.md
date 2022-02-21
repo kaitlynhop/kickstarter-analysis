@@ -2,7 +2,7 @@
 
 ## Overview of the Project
 
-This project analyzes key datasets of kickstarter campaigns to assess for trends. Key data points include: goal amount, pledged amount, creation date, termination date, category, subcategory, and outcomes. The data was organized within Excel through the use of functions, data sorting, conditional formatting, and creation of pivot tables and charts. The outcomes were categorized as, "Successful", if the pledged amount was greater than or equal to the goal amount, "Failed", if the pledged amounts was less than the goal amount, or "Canceled", if the campaign was cancled without meeting the desired goal. In this project, the outcomes were assessed against the month of launch within theater campaigns and ranges of goal amounts for all campaign categories. 
+This project analyzes key datasets of kickstarter campaigns to assess for trends. Key data points include: goal amount, pledged amount, creation date, termination date, category, subcategory, and outcomes. The data was organized within Excel through the use of functions, data sorting, conditional formatting, and creation of pivot tables and charts. The outcomes were categorized as, "Successful", if the pledged amount was greater than or equal to the goal amount, "Failed", if the pledged amounts was less than the goal amount, or "Canceled", if the campaign was canceled without meeting the desired goal. In this project, the outcomes were assessed against the month of launch date within theater campaigns and ranges of goal amounts for campaigns wtihin "play" subcategory. 
 
 ### Purpose
 
